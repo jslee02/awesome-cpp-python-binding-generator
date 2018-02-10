@@ -2,6 +2,7 @@
 
 ## Boost.Python
 
+* [AutoWIG](https://autowig.readthedocs.io) - [[github](https://github.com/StatisKit/AutoWIG) ![StatisKit/AutoWIG](https://img.shields.io/github/stars/StatisKit/AutoWIG.svg?style=social&label=Star&maxAge=2592000)]
 * chimera - [[github](https://github.com/personalrobotics/chimera) ![personalrobotics/chimera](https://img.shields.io/github/stars/personalrobotics/chimera.svg?style=social&label=Star&maxAge=2592000)]
 
 ## pybind11
