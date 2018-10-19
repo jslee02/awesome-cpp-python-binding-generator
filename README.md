@@ -10,3 +10,7 @@
 * [Binder](http://cppbinder.readthedocs.io/en/latest/) - [[github](https://github.com/RosettaCommons/binder) ![RosettaCommons/binder](https://img.shields.io/github/stars/RosettaCommons/binder.svg?style=social&label=Star&maxAge=2592000)]
 * cppwg - [[github](https://github.com/jmsgrogan/cppwg) ![jmsgrogan/cppwg](https://img.shields.io/github/stars/jmsgrogan/cppwg.svg?style=social&label=Star&maxAge=2592000)]
 * [Py++](http://pypp11.readthedocs.io/en/latest/) (deprecated) - [[github](https://github.com/ISoirar/pypp11) ![ISoirar/pypp11](https://img.shields.io/github/stars/ISoirar/pypp11.svg?style=social&label=Star&maxAge=2592000)]
+
+## ETC
+
+* clif - [[github](https://github.com/google/clif) ![google/clif](https://img.shields.io/github/stars/google/clif.svg?style=social&label=Star&maxAge=2592000)]
