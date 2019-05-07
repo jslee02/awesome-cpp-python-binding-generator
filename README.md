@@ -15,3 +15,4 @@
 
 * clif - Wrapper generator foundation to wrap C++ for Python and other languages using LLVM [[github](https://github.com/google/clif) ![google/clif](https://img.shields.io/github/stars/google/clif.svg?style=social&label=Star&maxAge=2592000)]
 * Cpp2Py - Reflection tools based on clang [[github](https://github.com/TRIQS/cpp2py) ![TRIQS/cpp2py](https://img.shields.io/github/stars/TRIQS/cpp2py.svg?style=social&label=Star&maxAge=2592000)]
+* [cppyy](https://cppyy.readthedocs.io) - Python-C++ bindings interface based on Cling/LLVM [[bitbucket](https://bitbucket.org/wlav/cppyy)]
