@@ -1,6 +1,19 @@
 # Awesome Python Binding Generators for C++
 
-## C/C++ to Python
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of resources for Python Binding Generators for C++.
+
+## Contents
+
+- [C/C++ to Python](#cc-to-python)
+  - [Boost.Python](#boostpython)
+  - [pybind11](#pybind11)
+  - [ETC](#etc)
+- [C/C++ to other languages](#cc-to-other-languages)
+  - [Crystal](#crystal)
+
+## [C/C++ to Python](#contents)
 
 ### Boost.Python
 
@@ -19,8 +32,16 @@
 * Cpp2Py - Reflection tools based on clang [[github](https://github.com/TRIQS/cpp2py) ![TRIQS/cpp2py](https://img.shields.io/github/stars/TRIQS/cpp2py.svg?style=social&label=Star&maxAge=2592000)]
 * [cppyy](https://cppyy.readthedocs.io) - Python-C++ bindings interface based on Cling/LLVM [[bitbucket](https://bitbucket.org/wlav/cppyy)]
 
-## C/C++ to other languages
+## [C/C++ to other languages](#contents)
 
 ### Crystal
 
 * Bindgen - Binding and wrapper generator for C/C++ libraries [[github](https://github.com/Papierkorb/bindgen) ![Papierkorb/bindgen](https://img.shields.io/github/stars/Papierkorb/bindgen.svg?style=social&label=Star&maxAge=2592000)]
+
+## [Contributing](#contents)
+
+Contributions are very welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first. Also, please feel free to report any error.
+
+## [License](#contents)
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
